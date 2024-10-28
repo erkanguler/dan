@@ -2,6 +2,7 @@
     "name": "erkan/dan",
     "description": "Publishing a package",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Erkan\\Dan\\": "src/"
